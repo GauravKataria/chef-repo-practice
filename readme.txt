@@ -1,1 +1,2 @@
-info
+Chef practice repo
+Reference : Opscode
